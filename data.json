@@ -1,0 +1,261 @@
+[
+    {
+        "name": "The Matrix",
+        "length": 150,
+        "rating": 8.7,
+        "releaseDate": "1999-06-11",
+        "directorName": "Lana Wachowski"
+    },
+    {
+        "name": "Black Rain",
+        "length": 125,
+        "rating": 4.1,
+        "releaseDate": "1990-01-26",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "American Gangster",
+        "length": 176,
+        "rating": 7.8,
+        "releaseDate": "2007-11-19",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Inception",
+        "length": 148,
+        "rating": 8.8,
+        "releaseDate": "2010-07-08",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "Interstellar",
+        "length": 169,
+        "rating": 8.6,
+        "releaseDate": "2014-11-07",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "Exodus: Gods and Kings",
+        "length": 150,
+        "rating": 6,
+        "releaseDate": "2014-12-03",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Alexander",
+        "length": 214,
+        "rating": 5.6,
+        "releaseDate": "2005-01-07",
+        "directorName": "Oliver Stone"
+    },
+    {
+        "name": "Joker",
+        "length": 122,
+        "rating": 8.7,
+        "releaseDate": "2019-10-04",
+        "directorName": "Todd Philips"
+    },
+    {
+        "name": "1492: Conquest of Paradise",
+        "length": 154,
+        "rating": 6.5,
+        "releaseDate": "1992-10-23",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Shutter Island",
+        "length": 139,
+        "rating": 8.1,
+        "releaseDate": "2010-03-12",
+        "directorName": "Martin Scorsese"
+    },
+    {
+        "name": "The Dark Knight",
+        "length": 152,
+        "rating": 9,
+        "releaseDate": "2008-07-21",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "The Dark Knight Rises",
+        "length": 165,
+        "rating": 8.4,
+        "releaseDate": "2012-07-20",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "G.I. Jane",
+        "length": 125,
+        "rating": 5.9,
+        "releaseDate": "1997-11-14",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Batman Begins",
+        "length": 140,
+        "rating": 8.2,
+        "releaseDate": "2006-06-16",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "Dunkirk",
+        "length": 106,
+        "rating": 7.9,
+        "releaseDate": "2017-07-21",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "A Good Year",
+        "length": 118,
+        "rating": 7,
+        "releaseDate": "2006-10-27",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Kingdom of Heaven",
+        "length": 194,
+        "rating": 7.2,
+        "releaseDate": "2005-05-06",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Memento",
+        "length": 113,
+        "rating": 8.4,
+        "releaseDate": "2000-10-14",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "The Prestige",
+        "length": 130,
+        "rating": 8.5,
+        "releaseDate": "2006-11-10",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "Insomnia",
+        "length": 118,
+        "rating": 7.2,
+        "releaseDate": "2002-08-30",
+        "directorName": "Christopher Nolan"
+    },
+    {
+        "name": "Alien",
+        "length": 117,
+        "rating": 8.4,
+        "releaseDate": "1979-09-06",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Robin Hood",
+        "length": 156,
+        "rating": 6.6,
+        "releaseDate": "2010-05-12",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Blade Runner",
+        "length": 117,
+        "rating": 8.1,
+        "releaseDate": "1982-09-09",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Legend",
+        "length": 94,
+        "rating": 6.5,
+        "releaseDate": "1985-12-13",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Someone to Watch Over Me",
+        "length": 106,
+        "rating": 6.1,
+        "releaseDate": "1987-10-09",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Thelma \u0026 Louise",
+        "length": 130,
+        "rating": 7.5,
+        "releaseDate": "1991-07-12",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Gladiator",
+        "length": 171,
+        "rating": 8.5,
+        "releaseDate": "2000-05-12",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "White Squall",
+        "length": 129,
+        "rating": 6.6,
+        "releaseDate": "1996-02-22",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Hannibal",
+        "length": 132,
+        "rating": 6.8,
+        "releaseDate": "2001-02-16",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Black Hawk Down",
+        "length": 152,
+        "rating": 7.7,
+        "releaseDate": "2001-01-18",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Alien: Covenant",
+        "length": 123,
+        "rating": 6.4,
+        "releaseDate": "2017-05-12",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Matchstick Men",
+        "length": 120,
+        "rating": 7.3,
+        "releaseDate": "2003-09-19",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "The Counselor",
+        "length": 120,
+        "rating": 5.3,
+        "releaseDate": "2013-11-15",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Body of Lies",
+        "length": 128,
+        "rating": 7.1,
+        "releaseDate": "2008-10-10",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "All the Money in the World",
+        "length": 135,
+        "rating": 6.8,
+        "releaseDate": "2017-01-05",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "Prometheus",
+        "length": 124,
+        "rating": 7,
+        "releaseDate": "2012-05-31",
+        "directorName": "Ridley Scott"
+    },
+    {
+        "name": "The Martian",
+        "length": 151,
+        "rating": 8,
+        "releaseDate": "2015-09-30",
+        "directorName": "Ridley Scott"
+    }
+]
